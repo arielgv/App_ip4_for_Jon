@@ -11,6 +11,7 @@ Welcome to the  repository.
 
 
 To get started, download the repository to a folder on your computer.
+(Click on the green button "Code", and then "Download Zip". then Unzip it)
 
 Next, make sure you have the latest Python installed on your system. If you don't have it already, you can download it from the official Python website: 
 
